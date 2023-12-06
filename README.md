@@ -9,4 +9,4 @@ Dataset yang akan digunakan adalah kumpulan data sentiment yang berasal dari pen
 
 Detil informasi bisa dicek disini:
 
-PILPRES 2019 Tweet Dataset
+https://drive.google.com/file/d/1YexiOb6kI5c1SDtziUW9ekcaRoFrqKro/view
